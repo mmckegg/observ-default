@@ -1,0 +1,30 @@
+{
+  "name": "observ-default",
+  "version": "0.0.0",
+  "description": "Observ but with default value on null.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmckegg/observ-default.git"
+  },
+  "keywords": [
+    "observ",
+    "default",
+    "frp"
+  ],
+  "author": "Matt McKegg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmckegg/observ-default/issues"
+  },
+  "homepage": "https://github.com/mmckegg/observ-default",
+  "dependencies": {
+    "observ": "^0.2.0"
+  },
+  "devDependencies": {
+    "standard": "^5.0.0"
+  }
+}
